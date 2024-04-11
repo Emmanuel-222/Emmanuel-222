@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a clone website](https://emmagodei.netlify.app/)
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [a full stack app](https://lms.terrahq.co/)
 
