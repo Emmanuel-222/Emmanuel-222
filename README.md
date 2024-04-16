@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Frontend Developer Emmanuel Ogbuefi Chibueze</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuel-222&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel-222" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emmanuel-222&theme=" alt="Emmanuel-222" /></a> </p>
-
 - 🔭 I’m currently working on [A Side hustle Clone](https://emmagodei.netlify.app/)
 - 👯 I’m looking to collaborate on [Full stack app](https://lms.terrahq.co/)
 - 🤝 I’m looking for help with [in a backend project](https://lms.terrahq.co/)
